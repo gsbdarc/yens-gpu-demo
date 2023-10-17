@@ -1,4 +1,4 @@
-# `yens-gpu-demo``: finBERT Training on Yen's GPU Node
+# `yens-gpu-demo`: finBERT Training on Yen's GPU Node
 
 This repository contains the code and scripts required to train a BERT model for sentiment analysis on financial news using GSB <a href="https://rcpedia.stanford.edu/topicGuides/yenGPU.html" target="_blank">Yen's GPU node</a> at Stanford. The BERT model is trained on a <a href="https://www.kaggle.com/datasets/ankurzing/sentiment-analysis-for-financial-news/" target="_blank">Kaggle dataset</a> of financial phrase bank. The project utilizes the `transformers` library along with `PyTorch Lightning` for streamlined model training and evaluation.
 
